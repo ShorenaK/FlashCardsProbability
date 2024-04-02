@@ -7,16 +7,88 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
+        <title> Discrete Math Flash Card </title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
+        href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+        <link rel="stylesheet" 
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" 
+        integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" crossorigin="anonymous" />  
+       
+    
+         <!-- Update these with your own fonts -->
+         <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Roboto+Slab:400,700&display=swap" rel="stylesheet"> 
+    
+        <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
+        <header> 
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        
+        <button class="nav-toggle" arial-label="toggle navigation">
+            <span class="hamburger" > </span>
+        </button>
+        <nav class="nav">
+            <ul>
+                <li class="nav__list"> <a href="#home" class="nav__link">Home</a></li>
+                <li class="nav__list"> <a href="#about" class="nav__link" >My Skills</a> </li>
+                <li class="nav__list"><a href="#services" class="nav__link ">About Me</a> </li>
+                <li class="nav__list"><a href="#about"class="nav__link ">My Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <!-- Introduction -->
+    <section class="intro" id="home">
+        <h1 class="section__title section__title--intro">
+          Hi, I am  <strong> Shorena K. Anzhilov</strong>
+      
+      </h1>
+     
+        <h3 class="section__subtitle section__subtitle--intro"></h3>
+     
+         <img src="img/Shorena0.png" alt="a picture of Shorena" class="intro__img"> 
+         
+         <div class="email__social--links"> 
+           <h3>  
+           <a target=”_blank” style="color:#51A7F9;" href="mailto:shorenaanshilov@gmail.com" class="footer__link"> <i class="fa-solid fa-envelope">
+     
+           </i> </a>
+           
+           
+         <a target=”_blank”  class="social-list__link" href="https://github.com/ShorenaK">
+           <i class="fab fa-github" style="color:#51A7F9;"></i> 
+           </a>
+         
+          <a target=”_blank”  class="social-list__link" href="https://www.linkedin.com/in/shorenaanzhilov/"> 
+              <i class="fab fa-linkedin" style="color: #51A7F9;"></i>
+           </a>
+           <button class="button"><a class="a_tag" href="img/ShorenaKAnzhilovSE.pdf" download='Shorena K. Anzhilov Resume.pdf' target="_blank">
+             Resume</a></button>
+         </h3>
+         </div>
+     
+     
+       </section>
+     
+
+
+ <!-- About Me -->
+ <section class="my-services" id="services">
+    
+    <div class="services">
+      <div class="service">
+        <h2 style="font-size: 25px;"> 
+          I am a team-oriented, highly motivated, and passionate full-stack software developer. I use clean, maintainable code to create ethical, accessible software products. With cross-industry practice background and ten years of experience in business operations and management, I drive teams to achieve exceptional creative problem solutions. I am a dependable professional with dynamic communication skills, eager to contribute to company and team success.
+        </h2>
+      </div>    
+    </div>  
+  
+  </section>
+
+
         <script src="" async defer></script>
     </body>
 </html>
