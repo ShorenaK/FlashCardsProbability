@@ -1,25 +1,23 @@
-# Flash Card
+
+![](img/maybe.png)
 
 
-![](img/logo2.png)
-
-
-## Introduction: "Portfolio" 
-  - Showcases own portfolio. 
+## Introduction: "---- " 
+  - 
 
 
 
 ## About page.
 
-![](img/readmehomepage.png)
+![](img/newpic.pmg)
 
 
 ## Skill page. 
-![](img/skills.png)
+![](img/needstobeupdated)
 
 
 ## Project page.
-![](img/project.png)
+![](img/needsnewpic)
 
 
 ## Development Tools:
@@ -33,4 +31,4 @@
 
 ## Support: 
 
-Any concerns or questions? Feel free to contact: shorenaanzhilov@gmail.com
+Any concerns or questions? Feel free to contact: probabilityflashcard@gmail.com
