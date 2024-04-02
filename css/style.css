@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 
-/* custom properties  */
+/* custom properties verables */
 
 :root {
     --ff-primary: 'Roboto Slab', serif;
