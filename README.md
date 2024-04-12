@@ -21,7 +21,7 @@ We've developed an engaging study tool based on flashcards, using the web platfo
  - Deployed on gitHub 
 
 Description:
-website dedicated to explaining the content of the flashcards we've created on Quizlet. Our goal is to provide users with a clear understanding of the topics covered in our flashcard decks and facilitate easy navigation to our Quizlet flashcards. We've included direct links to our Quizlet flashcards on our website, allowing users to seamlessly access additional study materials. Whether you're a student preparing for exams or someone looking to expand your knowledge, Flashcard Companion offers a convenient platform to enhance your learning experience. Flashcard Hub is hosted on GitHub, ensuring reliability and accessibility for users worldwide. Whether you're studying at home, in the library, or on the go, our website is accessible anytime, anywhere. Take advantage of our user-friendly interface and start mastering your subjects with ease.
+Whether you're a student preparing for exams or someone looking to expand your knowledge, our static Website is dedicated to explaining the content of the flashcards we've created on Quizlet. Our goal is to provide users with a clear understanding of the topics covered in our flashcard decks and facilitate easy navigation to the link. We've included direct links to our Quizlet flashcards on our website, allowing users to seamlessly access additional study materials and useful features. Web page is hosted on GitHub, ensuring reliability and accessibility for users worldwide. Whether you're studying at home, in the library, or on the go, our website is accessible anytime, anywhere.
 
 ## Preview 
 # About page.
@@ -43,8 +43,8 @@ website dedicated to explaining the content of the flashcards we've created on Q
 
 
 ## Developer:
-- [Shorena K. Anzhilov](https://github.com/ShorenaK)
-- [Shorena K. Anzhilov](https://github.com/ShorenaK)
+- [Yanyuan Mo](https://github.com/yanyuanmo)
+- [William Beeker](https://github.com/wbeeker)
 - [Shorena K. Anzhilov](https://github.com/ShorenaK)
 
 
