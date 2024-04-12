@@ -49,4 +49,4 @@ Whether you're a student preparing for exams or someone looking to expand your k
 
 
 ## Support: 
- If you have any concerns or questions, you are welcome to reach out via email at probabilityflashcards_cs5002@gmail.com 
+ If you have any concerns or questions, you are welcome to reach out via email at: probabilityflashcards_cs5002@gmail.com 
