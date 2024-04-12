@@ -1,7 +1,7 @@
 ##  Class of CS 5002 Discrete Structures - Topic of Probability!
 ## Final Project "Flashcards" Ceated by Team of WYS. 
 
-## Final Project Description:
+### Final Project Description:
 #### We've developed an engaging study tool based on flashcards, using the web platform Quizlet. Our learning platform empowers anyone, from students to independent learners, to master probability in discrete mathematics through asynchronous learning. By utilizing Quizlet's test mode, users can evaluate themselves using a set of flashcards and progress through levels as they answer more questions correctly. Additionally, we've integrated a gamified assessment of knowledge with the "Match" feature, which enhances user enjoyment and motivation. We also implemented a hint feature for additional assistance. Users can access helpful clues by clicking on the hint button. A significant advantage of our Quizlet flashcards is the learning mode, which offers the option of selecting matching definitions. Moreover, with the "TERM" audio feature, users can listen to the questions, enhancing accessibility. Users can also save their preferred flashcards by clicking the star icon and benefit from memory scores and progress-tracking features. Furthermore, our platform facilitates sharing, allowing users to distribute our flashcards to others. Users can also rate the quality of our flashcards. 
 
 ## Preview 
@@ -35,7 +35,7 @@ Whether you're a student preparing for exams or someone looking to expand your k
 
 
 ## Link to hosted application:
-[CLICK HERE!](https://quizlet.com/898347569/probability-cs-5002-final-project-flash-cards/)
+[CLICK HERE!](https://shorenak.github.io/FlashCardsProbability/)
 
 
 ## Resources:
