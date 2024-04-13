@@ -21,7 +21,7 @@
  - Deployed on gitHub 
 
 Description:
-Whether you're a student preparing for exams or someone looking to expand your knowledge, our static Website is dedicated to explaining the content of the a deck flashcards we've created on Quizlet. Our goal is to provide users with a clear understanding of the topics covered in our flashcard decks and facilitate easy navigation to the link. We've included direct links to our Quizlet flashcards on our website, allowing users to seamlessly access additional study materials and useful features. Webpage is hosted on GitHub, ensuring reliability and accessibility for users worldwide. Whether you're studying at home, in the library, or on the go, our website is accessible anytime, anywhere.
+ Our static Website is dedicated to explaining the content of the a deck of flashcards that we've created on Quizlet. Our goal is to provide users with a clear understanding of the topics covered in our flashcards deck and facilitate easy navigation to the link. We've included direct links to our Quizlet flashcards on our website, allowing users to seamlessly access additional study materials and useful features. Whether you're a student preparing for exam or someone looking to expand your knowledge, we encourage you to utilize our website. Webpage is hosted on GitHub, ensuring reliability and accessibility for users worldwide. Whether you're studying at home, in the library, or on the go, our website is accessible anytime, anywhere.
 
 ## Preview 
 # About page.
